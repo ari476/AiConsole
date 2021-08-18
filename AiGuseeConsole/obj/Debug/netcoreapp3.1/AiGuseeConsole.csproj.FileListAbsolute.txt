@@ -1,0 +1,13 @@
+C:\Users\yafit\source\repos\AiGuseeConsole\AiGuseeConsole\bin\Debug\netcoreapp3.1\AiGuseeConsole.exe
+C:\Users\yafit\source\repos\AiGuseeConsole\AiGuseeConsole\bin\Debug\netcoreapp3.1\AiGuseeConsole.deps.json
+C:\Users\yafit\source\repos\AiGuseeConsole\AiGuseeConsole\bin\Debug\netcoreapp3.1\AiGuseeConsole.runtimeconfig.json
+C:\Users\yafit\source\repos\AiGuseeConsole\AiGuseeConsole\bin\Debug\netcoreapp3.1\AiGuseeConsole.runtimeconfig.dev.json
+C:\Users\yafit\source\repos\AiGuseeConsole\AiGuseeConsole\bin\Debug\netcoreapp3.1\AiGuseeConsole.dll
+C:\Users\yafit\source\repos\AiGuseeConsole\AiGuseeConsole\bin\Debug\netcoreapp3.1\AiGuseeConsole.pdb
+C:\Users\yafit\source\repos\AiGuseeConsole\AiGuseeConsole\obj\Debug\netcoreapp3.1\AiGuseeConsole.csprojAssemblyReference.cache
+C:\Users\yafit\source\repos\AiGuseeConsole\AiGuseeConsole\obj\Debug\netcoreapp3.1\AiGuseeConsole.AssemblyInfoInputs.cache
+C:\Users\yafit\source\repos\AiGuseeConsole\AiGuseeConsole\obj\Debug\netcoreapp3.1\AiGuseeConsole.AssemblyInfo.cs
+C:\Users\yafit\source\repos\AiGuseeConsole\AiGuseeConsole\obj\Debug\netcoreapp3.1\AiGuseeConsole.csproj.CoreCompileInputs.cache
+C:\Users\yafit\source\repos\AiGuseeConsole\AiGuseeConsole\obj\Debug\netcoreapp3.1\AiGuseeConsole.dll
+C:\Users\yafit\source\repos\AiGuseeConsole\AiGuseeConsole\obj\Debug\netcoreapp3.1\AiGuseeConsole.pdb
+C:\Users\yafit\source\repos\AiGuseeConsole\AiGuseeConsole\obj\Debug\netcoreapp3.1\AiGuseeConsole.genruntimeconfig.cache
