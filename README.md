@@ -7,7 +7,9 @@
  
  # Example
  Suppose we chose the number 3245.
+ 
  ![image](https://user-images.githubusercontent.com/83061722/156730397-4f926330-58df-4088-bcb3-70cad653792d.png)
+ 
  We will enter position 1 correctly (digit 2)
  And 2 not in the right place (digits 3 and 4)
  ![image](https://user-images.githubusercontent.com/83061722/156731100-69051224-d0fd-4918-b929-2655ccf94c5c.png)
