@@ -28,7 +28,8 @@ We will enter position 0 correctly
  We will enter position 4 correctly (all digits)
  And 0 not in the right place
  
- ![image](https://user-images.githubusercontent.com/83061722/156731774-6865a181-f8cd-49e0-bda5-16e69fa7466c.png)
+ ![image](https://user-images.githubusercontent.com/83061722/156732406-bfa8c1b8-d936-4ff7-9ad2-2e6c9150b941.png)
+
  
  
 
